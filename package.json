@@ -1,5 +1,5 @@
 {
-    "homepage": "http://yulo01.github.io/React-Ecommerce-Website",
+    "homepage": "http://kuliashvili.github.io/React-Ecommerce-Website",
     "name": "ecommerce",
     "version": "0.1.0",
     "private": true,
@@ -44,5 +44,4 @@
         "gh-pages": "^5.0.0"
     }
 
-    
 }
